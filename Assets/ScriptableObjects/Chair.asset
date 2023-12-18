@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a9c2847ecbd4354c908366b6c8bc43b, type: 3}
+  m_Name: Chair
+  m_EditorClassIdentifier: 
+  ItemName: Silla
+  ItemImage: {fileID: 21300000, guid: 92d97ac957124584c9e1515b58e31291, type: 3}
+  ItemDescription: Silla
+  Item3DModel: {fileID: 7658661331107115431, guid: 753493515d68edd48b2d75760b413465, type: 3}
